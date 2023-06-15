@@ -1,6 +1,9 @@
 {
   "name": "babel-issue",
   "private": true,
+  "engines": {
+    "node": "^16.17"
+  },
   "dependencies": {
     "@babel/preset-react": "^7.22.5",
     "@rails/actioncable": "^6.0.0",
